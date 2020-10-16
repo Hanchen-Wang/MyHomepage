@@ -14,7 +14,9 @@ role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
-- name: Australian Artificial <br>Intellegence Institution,<br> University of Technology Sydney
+- name: Australian Artificial 
+Intellegence Institution,
+University of Technology Sydney
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
