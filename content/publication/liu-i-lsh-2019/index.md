@@ -4,7 +4,7 @@
 title: 'I-LSH: I/O Efficient c-Approximate Nearest Neighbor Search in High-Dimensional
   Space'
 subtitle: ''
-summary: ''
+summary: '*IEEE 35th International Conference on Data Engineering (ICDE-19)*'
 authors:
 - Wanqi Liu
 - Hanchen Wang
@@ -13,7 +13,7 @@ authors:
 - Lu Qin
 tags: []
 categories: []
-date: '2019-01-01'
+date: '2019-04-06'
 lastmod: 2020-10-19T22:30:52+11:00
 featured: false
 draft: false
@@ -37,4 +37,5 @@ publication_types:
 - '1'
 abstract: ''
 publication: '*2019 IEEE 35th International Conference on Data Engineering (ICDE)*'
+url_pdf: https://ieeexplore.ieee.org/abstract/document/8731579
 ---
