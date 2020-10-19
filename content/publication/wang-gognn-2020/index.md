@@ -3,16 +3,16 @@
 
 title: 'GoGNN: Graph of Graphs Neural Network for Predicting Structured Entity Interactions'
 subtitle: ''
-summary: ''
+summary: '*IJCAI-20*'
 authors:
 - Hanchen Wang
-- Defu Lian
+- Defu Lian*
 - Ying Zhang
 - Lu Qin
 - Xuemin Lin
 tags: []
 categories: []
-date: '2020-01-01'
+date: '2020-04-06'
 lastmod: 2020-10-19T22:30:53+11:00
 featured: false
 draft: false
