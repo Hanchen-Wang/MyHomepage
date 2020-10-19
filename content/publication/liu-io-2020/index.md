@@ -35,10 +35,6 @@ projects: []
 publishDate: '2020-10-19T11:30:53.246355Z'
 publication_types:
 - '1'
-abstract: Furthest Neighbor search in high-dimensional space has been widely used
-  in many applications such as recommendation systems. Because of the “curse of dimensionality”
-  problem, c-approximate furthest neighbor (C-AFN) is a substitute as a trade-off
-  between result accuracy and efficiency. However, most of the current techniques
-  for external memory are only suitable for low-dimensional space.
+abstract: ''
 publication: '*Database Systems for Advanced Applications*'
 ---
