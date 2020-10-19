@@ -39,5 +39,6 @@ abstract: ''
 publication: '*Proceedings of the Twenty-Ninth International Joint Conference on Artificial
   Intelligence, IJCAI-20*'
 url_pdf: https://doi.org/10.24963/ijcai.2020/183
+url_code: https://github.com/Hanchen-Wang/GoGNN
 doi: 10.24963/ijcai.2020/183
 ---
