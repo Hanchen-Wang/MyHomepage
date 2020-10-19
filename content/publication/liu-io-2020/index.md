@@ -4,7 +4,7 @@
 title: I/O Efficient Algorithm for c-Approximate Furthest Neighbor Search in High-Dimensional
   Space
 subtitle: ''
-summary: ''
+summary: '*Database Systems for Advanced Applications 2020*'
 authors:
 - Wanqi Liu
 - Hanchen Wang
@@ -13,7 +13,7 @@ authors:
 - Wenjie Zhang
 tags: []
 categories: []
-date: '2020-01-01'
+date: '2020-05-01'
 lastmod: 2020-10-19T22:30:53+11:00
 featured: false
 draft: false
@@ -36,5 +36,6 @@ publishDate: '2020-10-19T11:30:53.246355Z'
 publication_types:
 - '1'
 abstract: ''
-publication: '*Database Systems for Advanced Applications*'
+publication: '*Database Systems for Advanced Applications 2020*'
+url_pdf: https://link.springer.com/chapter/10.1007/978-3-030-59419-0_14
 ---
