@@ -38,5 +38,5 @@ publication_types:
 abstract: ''
 publication: '*2019 IEEE 35th International Conference on Data Engineering Workshops
   (ICDEW)*'
-  url_pdf: https://ieeexplore.ieee.org/abstract/document/8750910
+url_pdf: https://ieeexplore.ieee.org/abstract/document/8750910
 ---
