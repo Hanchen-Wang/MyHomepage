@@ -29,7 +29,7 @@ education:
   courses:
   - course: PhD in Computer Science
     institution: University of Technology Sydney
-    year: 2017-2021
+    year: 2017-
   - course: BSc in Mathematics and Applied Mathematics
     institution: Zhejiang University
     year: 2012-2016
