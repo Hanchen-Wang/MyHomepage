@@ -6,7 +6,7 @@ subtitle: ''
 summary: '*Proceedings of the Twenty-Ninth International Joint Conference on Artificial
   Intelligence, IJCAI-20*'
 authors:
-- Hanchen Wang
+- admin
 - Defu Lian
 - Ying Zhang
 - Lu Qin
