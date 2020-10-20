@@ -7,11 +7,18 @@ subtitle: '*The VLDB Journal*'
 summary: '*The VLDB Journal*'
 authors:
 - Wanqi Liu
-- Hanchen Wang*
+- Hanchen Wang
 - Ying Zhang
 - Wei Wang
 - Lu Qin
 - Xuemin Lin
+author_nodes:
+- ''
+- 'Corresponding author'
+- ''
+- ''
+- ''
+- ''
 tags: []
 categories: []
 date: '2020-09-30'
