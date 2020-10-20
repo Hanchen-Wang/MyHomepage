@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Hanchen Wang (王翰宸)
+title: Hanchen Wang
 
 # Username (this should match the folder name)
 authors:
@@ -14,7 +14,7 @@ role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
-- name: Australian Artificial Intellegence Institution, University of Technology Sydney
+- name: AAII, University of Technology Sydney
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -69,6 +69,6 @@ user_groups:
 - Visitors
 ---
 
-I am currently a Ph.D candicate in AAII, University of Technology Sydney. I am advised by Prof.[Ying Zhang](http://www.cse.unsw.edu.au/~yingz/) and Prof.[Lu Qin](https://www.uts.edu.au/staff/lu.qin). I received my bachelor degree in Mathematics and Applied Mathematics from Zhejiang University in July 2016.
+I am currently a Ph.D. candicate in Australian Artificial Intellegence Institution, University of Technology Sydney. I am advised by Prof.[Ying Zhang](http://www.cse.unsw.edu.au/~yingz/) and Prof.[Lu Qin](https://www.uts.edu.au/staff/lu.qin). I received my bachelor degree in Mathematics and Applied Mathematics from Zhejiang University in July 2016.
 
 My research focuses on developing machine learning algorithms for graph structured data and database systems, including developing graph neural network achitectures and applying machine learning techniques to improve the algorithms in database domain.
