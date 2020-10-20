@@ -50,6 +50,5 @@ subtitle = ""
  css_class = ""
 +++
 
-**Social and Information Network Analysis:** Autumn Session 2017, 2019, 2020  
 
-
+**Social and Information Network Analysis:** Lab tutorials in Autumn Sessions 2017, 2019 and 2020.
