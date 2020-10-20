@@ -7,7 +7,7 @@ subtitle: ''
 summary: '*The VLDB Journal*'
 authors:
 - Wanqi Liu
-- Hanchen Wang
+- admin
 - Ying Zhang
 - Wei Wang
 - Lu Qin
