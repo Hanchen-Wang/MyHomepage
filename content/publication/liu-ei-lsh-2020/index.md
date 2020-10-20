@@ -3,7 +3,7 @@
 
 title: 'EI-LSH: An early-termination driven I/O efficient incremental c-approximate
   nearest neighbor search'
-subtitle: '*The VLDB Journal*'
+subtitle: ''
 summary: '*The VLDB Journal*'
 authors:
 - Wanqi Liu
@@ -12,7 +12,7 @@ authors:
 - Wei Wang
 - Lu Qin
 - Xuemin Lin
-author_nodes:
+author_notes:
 - ''
 - 'Corresponding author'
 - ''
