@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Hanchen Wang
+title: Hanchen Wang (王翰宸)
 
 # Username (this should match the folder name)
 authors:
