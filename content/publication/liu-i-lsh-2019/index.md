@@ -7,7 +7,7 @@ subtitle: ''
 summary: '*IEEE 35th International Conference on Data Engineering (ICDE-19)*'
 authors:
 - Wanqi Liu
-- Hanchen Wang
+- admin
 - Ying Zhang
 - Wei Wang
 - Lu Qin
