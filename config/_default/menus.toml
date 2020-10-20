@@ -13,6 +13,11 @@
   name = "Publications"
   url = "#publications"
   weight = 20
+  
+  [[main]]
+  name = "Academic Services"
+  url = "#academic"
+  weight = 30
 
 
 
