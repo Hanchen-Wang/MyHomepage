@@ -9,7 +9,7 @@ authors:
 - Wanqi Liu
 - Hanchen Wang
 - Ying Zhang
-- W. Wang
+- Wei Wang
 - Lu Qin
 tags: []
 categories: []
