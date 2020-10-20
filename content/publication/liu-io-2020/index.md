@@ -4,7 +4,7 @@
 title: I/O Efficient Algorithm for c-Approximate Furthest Neighbor Search in High-Dimensional
   Space
 subtitle: ''
-summary: '*Database Systems for Advanced Applications (DASFAA 2020)*'
+summary: '*Database Systems for Advanced Applications (**DASFAA-2020**)*'
 authors:
 - Wanqi Liu
 - admin
