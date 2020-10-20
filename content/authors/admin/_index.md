@@ -14,7 +14,8 @@ role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
-- name: Australian Artificial   Intellegence Institution,   University of Technology Sydney
+- name: Australian Artificial Intellegence Institution,
+  University of Technology Sydney
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -60,7 +61,7 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
