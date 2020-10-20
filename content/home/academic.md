@@ -52,7 +52,7 @@ subtitle = ""
 
 **(External) Reviwer:**
 
-**Conferences:** VLDB, ICDE, KDD, AAAI, IJCAI, CIKM, DASFAA, etc.  
-**Journals:** TKDE, VLDBJ, WWWJ
+- **Conferences:** VLDB, ICDE, KDD, AAAI, IJCAI, CIKM, DASFAA, etc.  
+- **Journals:** TKDE, VLDBJ, WWWJ
 
 
