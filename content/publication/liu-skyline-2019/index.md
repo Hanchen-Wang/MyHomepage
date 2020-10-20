@@ -4,7 +4,7 @@
 title: Skyline Nearest Neighbor Search on Multi-layer Graphs
 subtitle: ''
 summary: '*IEEE 35th International Conference on Data Engineering Workshops
-  (ICDEW-19)*'
+  (**ICDEW-2019**)*'
 authors:
 - Wanqi Liu
 - Dong Wen
@@ -13,7 +13,7 @@ authors:
 - Xubo Wang
 tags: []
 categories: []
-date: '2019-04-020'
+date: '2019-04-20'
 lastmod: 2020-10-19T22:30:52+11:00
 featured: false
 draft: false
