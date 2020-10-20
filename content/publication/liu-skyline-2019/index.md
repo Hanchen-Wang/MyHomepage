@@ -8,12 +8,12 @@ summary: '*IEEE 35th International Conference on Data Engineering Workshops
 authors:
 - Wanqi Liu
 - Dong Wen
-- Hanchen Wang
+- admin
 - Fan Zhang
 - Xubo Wang
 tags: []
 categories: []
-date: '2019-01-01'
+date: '2019-04-020'
 lastmod: 2020-10-19T22:30:52+11:00
 featured: false
 draft: false
