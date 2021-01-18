@@ -40,5 +40,7 @@ publication: '*Proceedings of the Twenty-Ninth International Joint Conference on
   Intelligence, IJCAI-20*'
 url_pdf: https://doi.org/10.24963/ijcai.2020/183
 url_code: https://github.com/Hanchen-Wang/GoGNN
+url_slides: "GoGNN_IJCAI_Long.pptx"
+url_video: "V15.mp4"
 doi: 10.24963/ijcai.2020/183
 ---
