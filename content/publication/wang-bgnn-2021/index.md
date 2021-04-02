@@ -4,13 +4,15 @@
 title: "Binarized Graph Neural Network"
 authors: 
 - admin
-- admin
+- Defu Lian
 - Ying Zhang
 - Lu Qin
-- Wenjie Zhang
+- Xiangjian He
+- Yiguang Lin
 - Xuemin Lin
 
 author_notes:
+- ''
 - ''
 - ''
 - ''
