@@ -52,7 +52,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://link.springer.com/article/10.1007%2Fs11280-021-00878-3
+url_pdf: https://link.springer.com/content/pdf/10.1007/s11280-021-00878-3.pdf
 url_code:
 url_dataset:
 url_poster:
