@@ -19,11 +19,11 @@ author_notes:
 - ''
 - ''
 - ''
-date: 2021-04-01T21:07:16+11:00
+date: 2021-04-08T21:07:16+11:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2021-04-01T21:07:16+11:00
+publishDate: 2021-04-08T21:07:16+11:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -52,7 +52,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: https://link.springer.com/article/10.1007%2Fs11280-021-00878-3
 url_code:
 url_dataset:
 url_poster:
@@ -60,6 +60,7 @@ url_project:
 url_slides:
 url_source:
 url_video:
+doi: 10.1007/s11280-021-00878-3
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
