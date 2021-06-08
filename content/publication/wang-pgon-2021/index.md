@@ -17,7 +17,7 @@ author_notes:
 - ''
 - ''
 - ''
-date: 2021-05-21T21:07:16+11:00
+date: 2021-06-04T21:07:16+11:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -30,13 +30,13 @@ publishDate: 2021-05-20T21:07:16+11:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "To appear in *World Wide Web Journal (**WWWJ**) 2021*"
+publication: "*World Wide Web Journal (**WWWJ**) 2021*"
 publication_short: ""
 
 abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: "To appear in *World Wide Web Journal (**WWWJ**) 2021*"
+summary: "*World Wide Web Journal (**WWWJ**) 2021*"
 
 tags: []
 categories: []
@@ -50,7 +50,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: 
+url_pdf: https://link.springer.com/article/10.1007/s11280-021-00900-8
 url_code:
 url_dataset:
 url_poster:
@@ -58,7 +58,7 @@ url_project:
 url_slides:
 url_source:
 url_video:
-doi: 
+doi: 10.1007/s11280-021-00900-8
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
