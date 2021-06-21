@@ -29,7 +29,7 @@ education:
   courses:
   - course: PhD in Computer Science
     institution: University of Technology Sydney
-    year: 2017-
+    year: 2017-2021
   - course: BSc in Mathematics and Applied Mathematics
     institution: Zhejiang University
     year: 2012-2016
@@ -71,4 +71,5 @@ user_groups:
 
 I am currently a Ph.D. candicate in Australian Artificial Intellegence Institution, University of Technology Sydney. I am advised by Prof.[Ying Zhang](http://www.cse.unsw.edu.au/~yingz/) and Prof.[Lu Qin](https://www.uts.edu.au/staff/lu.qin). I received my bachelor degree in Mathematics and Applied Mathematics from Zhejiang University in July 2016.
 
-My research focuses on developing machine learning algorithms for graph structured data and database systems, including developing graph neural network achitectures and applying machine learning techniques to improve the algorithms in database domain.
+My research focuses on developing machine learning algorithms for graph structured data and database systems, including developing graph neural network architectures and applying machine learning techniques to improve the algorithms in database domain.
+
