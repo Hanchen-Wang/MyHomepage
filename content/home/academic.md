@@ -52,7 +52,7 @@ subtitle = ""
 
 **Program Committee Member:**
 
-AAAI 2022, WISE 2022
+AAAI 2022, WISE 2021
 
 **Invited Journal Reviewer:**
 
