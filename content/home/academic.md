@@ -50,7 +50,11 @@ subtitle = ""
  css_class = ""
 +++
 
-**Invited Journal Reviwer:**
+**Program Committee Member:**
+
+AAAI 2022, WISE 2022
+
+**Invited Journal Reviewer:**
 
 TKDE, VLDBJ, TOIS, TNNLS, WWWJ
 
