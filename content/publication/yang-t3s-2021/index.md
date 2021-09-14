@@ -50,7 +50,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9458934
+url_pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9458934
 url_code:
 url_dataset:
 url_poster:
@@ -58,7 +58,7 @@ url_project:
 url_slides:
 url_source:
 url_video:
-doi:10.1109/ICDE51399.2021.00221
+doi: 10.1109/ICDE51399.2021.00221
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
