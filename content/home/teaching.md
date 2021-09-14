@@ -50,5 +50,6 @@ subtitle = ""
  css_class = ""
 +++
 
+**UTS 42913 Social and Information Network Analysis:** Lab tutorials in Autumn Sessions 2017, 2019, 2020 and 2021.
 
-**Social and Information Network Analysis:** Lab tutorials in Autumn Sessions 2017, 2019, 2020 and 2021.
+**UNSW DATA1001-Intro Data Science:** Head TA 2021 T2.
