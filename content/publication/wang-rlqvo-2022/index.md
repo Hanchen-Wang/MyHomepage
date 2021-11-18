@@ -36,7 +36,7 @@ publication_short: ""
 abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: "*2022 IEEE 38th International Conference on Data Engineering (ICDE)*"
+summary: "*IEEE 38th International Conference on Data Engineering (**ICDE-2022**)* To Appear"
 
 tags: []
 categories: []
