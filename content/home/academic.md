@@ -58,6 +58,6 @@ AAAI 2022, WISE 2021
 
 TKDE, VLDBJ, TOIS, TNNLS, WWWJ
 
-**(External) Reviwer:**
+**(External) Reviewer:**
 
 - **Conferences:** VLDB, ICDE, KDD, AAAI, IJCAI, CIKM, DASFAA, etc.  
