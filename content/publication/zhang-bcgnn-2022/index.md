@@ -1,29 +1,27 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Binarized Graph Neural Network"
+title: "Bipartite Graph Capsule Network"
 authors: 
+- Xianhang Zhang
 - admin
-- Defu Lian
-- Ying Zhang
-- Lu Qin
-- Xiangjian He
-- Yiguang Lin
-- Xuemin Lin
+- Jianke Yu
+- Chen Chen
+- Xiaoyang Wang
+- Wenjie Zhang
 
 author_notes:
 - ''
+- 'Corresponding author'
 - ''
 - ''
 - ''
 - ''
-- ''
-- ''
-date: 2021-04-08T21:07:16+11:00
+date: 2022-01-11T18:06:16+11:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2021-04-08T21:07:16+11:00
+publishDate: 2021-05-20T21:07:16+11:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -32,13 +30,13 @@ publishDate: 2021-04-08T21:07:16+11:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*World Wide Web 2021*"
+publication: "Accepted by World Wide Web 2022"
 publication_short: ""
 
 abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: "*World Wide Web 2021*"
+summary: "*Accepted by World Wide Web 2022* To Appear"
 
 tags: []
 categories: []
@@ -52,7 +50,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://link.springer.com/content/pdf/10.1007/s11280-021-00878-3.pdf
+url_pdf:
 url_code:
 url_dataset:
 url_poster:
@@ -60,7 +58,7 @@ url_project:
 url_slides:
 url_source:
 url_video:
-doi: 10.1007/s11280-021-00878-3
+doi:
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

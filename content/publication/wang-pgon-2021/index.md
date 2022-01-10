@@ -30,13 +30,13 @@ publishDate: 2021-05-20T21:07:16+11:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*World Wide Web Journal (**WWWJ**) 2021*"
+publication: "*World Wide Web 2021*"
 publication_short: ""
 
 abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: "*World Wide Web Journal (**WWWJ**) 2021*"
+summary: "*World Wide Web 2021*"
 
 tags: []
 categories: []
