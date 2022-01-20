@@ -56,8 +56,8 @@ AAAI 2022, IJCAI 2022, ICDE 2022 (TKDE Poster track), WISE 2021, etc.
 
 **Invited Journal Reviewer:**
 
-TKDE, VLDBJ, TOIS, TNNLS, WWWJ
+TKDE, VLDBJ, TOIS, TNNLS, WWWJ, Scientific Reports, etc.
 
 **(External) Reviewer:**
 
-- **Conferences:** VLDB, ICDE, KDD, AAAI, IJCAI, CIKM, DASFAA, etc.  
+- **Conferences:** VLDB, KDD, CIKM, DASFAA, etc.  
