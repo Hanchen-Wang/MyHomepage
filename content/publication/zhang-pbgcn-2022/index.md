@@ -1,23 +1,23 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Reinforcement Learning Based Query Vertex Ordering Model for Subgraph Matching"
+title: "Polarity-based Graph Neural Network for Sign Prediction in Signed Bipartite Graphs"
 authors: 
+- Xianhang Zhang
 - admin
-- Ying Zhang
-- Lu Qin
-- Wei Wang
+- Jianke Yu
+- Chen Chen
+- Xiaoyang Wang
 - Wenjie Zhang
-- Xuemin Lin
 
 author_notes:
 - ''
+- 'Corresponding author'
 - ''
 - ''
 - ''
 - ''
-- ''
-date: 2022-01-18T18:06:16+11:00
+date: 2022-01-12T18:06:16+11:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -27,16 +27,16 @@ publishDate: 2021-05-20T21:07:16+11:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "To Appear *2022 IEEE 38th International Conference on Data Engineering (ICDE)*"
+publication: "Accepted by World Wide Web"
 publication_short: ""
 
 abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: "*IEEE 38th International Conference on Data Engineering (**ICDE-2022**)*, To Appear"
+summary: "*Accepted by World Wide Web*, To Appear"
 
 tags: []
 categories: []
