@@ -50,7 +50,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf:"ICDE2022_RLQVO.pdf"
 url_code:
 url_dataset:
 url_poster:
