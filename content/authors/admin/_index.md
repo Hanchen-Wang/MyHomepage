@@ -23,7 +23,7 @@ bio: My research interests include developing machine learning algorithms for gr
 interests:
 - Graph Neural Network
 - Graph Database
-- Machine Learning for Databse
+- Machine Learning for Database
 
 education:
   courses:
@@ -69,7 +69,7 @@ user_groups:
 - Visitors
 ---
 
-I am currently a postdoctoral research fellow at Data and Knowledge Research Group at [The University of New South Wales](https://unsw.edu.au/). Before joining UNSW, I was a Ph.D. student in Australian Artificial Intellegence Institution, University of Technology Sydney from July 2017 to June 2021, advised by Prof.[Ying Zhang](http://www.cse.unsw.edu.au/~yingz/) and Prof.[Lu Qin](https://www.uts.edu.au/staff/lu.qin). I received my bachelor degree in Mathematics and Applied Mathematics from Zhejiang University in July 2016.
+I am currently a postdoctoral research fellow at Data and Knowledge Research Group at [The University of New South Wales](https://unsw.edu.au/), supervised by [Prof. Wenjie Zhang](https://www.cse.unsw.edu.au/~zhangw/). Before joining UNSW, I was a Ph.D. student in Australian Artificial Intellegence Institution, [University of Technology Sydney](https://www.uts.edu.au/) from July 2017 to June 2021, advised by Prof.[Ying Zhang](http://www.cse.unsw.edu.au/~yingz/) and Prof.[Lu Qin](https://www.uts.edu.au/staff/lu.qin). I received my bachelor degree in Mathematics and Applied Mathematics from Zhejiang University in July 2016.
 
 My research focuses on developing machine learning algorithms for graph structured data and database systems, including developing graph neural network architectures and applying machine learning techniques to improve the algorithms in database domain.
 
