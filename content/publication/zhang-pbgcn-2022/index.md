@@ -50,7 +50,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:https://link.springer.com/content/pdf/10.1007/s11280-022-01015-4.pdf
+url_pdf: https://link.springer.com/content/pdf/10.1007/s11280-022-01015-4.pdf
 url_code:
 url_dataset:
 url_poster:
@@ -58,7 +58,7 @@ url_project:
 url_slides:
 url_source:
 url_video:
-doi:10.1007/s11280-022-01015-4
+doi: 10.1007/s11280-022-01015-4
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
