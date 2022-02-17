@@ -18,7 +18,7 @@ author_notes:
 - ''
 - ''
 date: 2022-01-12T18:06:16+11:00
-doi: ""
+doi: "10.1007/s11280-022-01015-4"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2021-05-20T21:07:16+11:00
@@ -30,13 +30,13 @@ publishDate: 2021-05-20T21:07:16+11:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Accepted by World Wide Web"
+publication: "World Wide Web"
 publication_short: ""
 
 abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: "*Accepted by World Wide Web*, To Appear"
+summary: "*World Wide Web*"
 
 tags: []
 categories: []
@@ -50,7 +50,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf:'https://link.springer.com/content/pdf/10.1007/s11280-022-01015-4.pdf'
 url_code:
 url_dataset:
 url_poster:
