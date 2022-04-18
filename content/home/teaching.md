@@ -50,6 +50,10 @@ subtitle = ""
  css_class = ""
 +++
 
-**UTS 42913 Social and Information Network Analysis:** Lab tutorials in Autumn Sessions 2017, 2019, 2020 and 2021.
+**UTS 42913 Social and Information Network Analysis:** Lecturer in Autumn Session 2022;
+Lab tutorials in Autumn Sessions 2017, 2019, 2020, 2021 and 2022.
+
+**UTS 41041 Emerging Topic in AI:** Invited Lecturer in Autumn Session 2022.
 
 **UNSW DATA1001-Intro Data Science:** Head TA 2021 T2.
+
