@@ -50,7 +50,7 @@ subtitle = ""
  css_class = ""
 +++
 
-**UTS 42913 Social and Information Network Analysis:** Lecturer in Autumn Session 2022;  
+**UTS 42913 Social and Information Network Analysis:** Instructor in Autumn Session 2022;  
 Lab tutorials in Autumn Sessions 2017, 2019, 2020, 2021 and 2022.
 
 **UTS 41041 Emerging Topic in AI:** Invited Lecturer in Autumn Session 2022.
