@@ -30,13 +30,13 @@ publishDate: 2021-05-20T21:07:16+11:00
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "To Appear *2022 IEEE 38th International Conference on Data Engineering (ICDE)*"
+publication: "*2022 IEEE 38th International Conference on Data Engineering (ICDE)*"
 publication_short: ""
 
 abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: "*IEEE 38th International Conference on Data Engineering (**ICDE-2022**)*, To Appear"
+summary: "*IEEE 38th International Conference on Data Engineering (**ICDE-2022**)*"
 
 tags: []
 categories: []
@@ -55,7 +55,7 @@ url_code:
 url_dataset:
 url_poster:
 url_project:
-url_slides:
+url_slides: "ICDE_RLQVO_slides.pptx"
 url_source:
 url_video:
 doi:
