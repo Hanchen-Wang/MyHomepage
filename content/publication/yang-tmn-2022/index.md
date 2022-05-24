@@ -57,7 +57,7 @@ url_poster:
 url_project:
 url_slides: "TMN_ICDE22_slides_5min.pptx"
 url_source:
-url_video: "paper_669.mp4
+url_video: "paper_669.mp4"
 doi:
 
 # Featured image
