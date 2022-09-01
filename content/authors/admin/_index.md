@@ -23,7 +23,7 @@ bio: My research interests include developing machine learning algorithms for gr
 interests:
 - Graph Neural Network
 - Graph Database
-- Machine Learning for Database
+- Artificial Intellegence for Database
 
 education:
   courses:
