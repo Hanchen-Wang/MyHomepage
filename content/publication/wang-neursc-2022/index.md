@@ -50,7 +50,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "[SIGMOD22]Neural_Subgraph_Counting.pdf"
+url_pdf: "https://dl.acm.org/doi/pdf/10.1145/3514221.3526163"
 url_code:
 url_dataset:
 url_poster:
