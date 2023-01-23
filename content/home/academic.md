@@ -52,7 +52,9 @@ subtitle = ""
 
 **Program Committee Member:**
 
-AAAI 2022, IJCAI 2022, ICDE 2022 (TKDE Poster track), WISE 2021, etc.
+KDD 2023, IJCAI 2023.
+AAAI 2022, IJCAI 2022, ICDE 2022 (TKDE Poster track), WISE 2022.
+WISE 2021 etc.
 
 **Invited Journal Reviewer:**
 
