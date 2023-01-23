@@ -50,7 +50,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: “https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9835456”
+url_pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9835456
 url_code:
 url_dataset:
 url_poster:
