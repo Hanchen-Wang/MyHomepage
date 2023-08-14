@@ -31,12 +31,12 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*2022 IEEE 38th International Conference on Data Engineering (ICDE)*"
-publication_short: ""
+publication_short: "ICDE '22'"
 
 abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: "*IEEE 38th International Conference on Data Engineering (**ICDE-2022**)*"
+summary: "*IEEE 38th International Conference on Data Engineering (**ICDE '22**)*"
 
 tags: []
 categories: []

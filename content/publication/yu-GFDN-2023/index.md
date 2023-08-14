@@ -35,12 +35,12 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD) 2023*"
-publication_short: "KDD'23"
+publication_short: "KDD '23"
 
 abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: "*29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD'23**)*"
+summary: "*29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD '23**)*"
 
 tags: []
 categories: []

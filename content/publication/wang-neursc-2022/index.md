@@ -31,12 +31,12 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*2022 ACM Special Interest Group in Management Of Data (SIGMOD)*"
-publication_short: ""
+publication_short: "SIGMOD '22"
 
 abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: "*ACM Special Interest Group in Management Of Data 2022 (**SIGMOD-2022**)*"
+summary: "*ACM Special Interest Group in Management Of Data 2022 (**SIGMOD '22**)*"
 
 tags: []
 categories: []
