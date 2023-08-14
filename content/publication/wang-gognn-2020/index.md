@@ -4,7 +4,7 @@
 title: 'GoGNN: Graph of Graphs Neural Network for Predicting Structured Entity Interactions'
 subtitle: ''
 summary: '*Proceedings of the Twenty-Ninth International Joint Conference on Artificial
-  Intelligence (**IJCAI '20**)*'
+  Intelligence (**IJCAI'20**)*'
 authors:
 - admin
 - Defu Lian
@@ -37,7 +37,7 @@ publication_types:
 - '1'
 abstract: ''
 publication: '*Proceedings of the Twenty-Ninth International Joint Conference on Artificial
-  Intelligence, IJCAI '20*'
+  Intelligence, IJCAI'20*'
 url_pdf: https://doi.org/10.24963/ijcai.2020/183
 url_code: https://github.com/Hanchen-Wang/GoGNN
 url_slides: "GoGNN_IJCAI_Long.pptx"
