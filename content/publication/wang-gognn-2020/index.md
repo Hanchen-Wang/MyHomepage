@@ -51,7 +51,7 @@ featured: false
 #   icon: twitter
 
 url_pdf: "https://doi.org/10.24963/ijcai.2020/183"
-url_code:"https://github.com/Hanchen-Wang/GoGNN"
+url_code: "https://github.com/Hanchen-Wang/GoGNN"
 url_dataset:
 url_poster:
 url_project:
