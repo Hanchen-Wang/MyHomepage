@@ -51,7 +51,7 @@ featured: false
 #   icon: twitter
 
 url_pdf: "https://dl.acm.org/doi/pdf/10.1145/3514221.3526163"
-url_code:
+url_code: "NeurSC_not_cleaned.zip"
 url_dataset:
 url_poster:
 url_project:
