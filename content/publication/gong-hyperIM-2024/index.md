@@ -38,7 +38,7 @@ publication_short: "IPM '24"
 abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: "*Information Processing and Management 2024 (**IPM '24**)*"
+summary: "*Information Processing and Management 2024*"
 
 tags: []
 categories: []
