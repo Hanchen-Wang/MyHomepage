@@ -3,7 +3,7 @@
 
 title: "Influence Maximization on Hypergraphs via Multi-Hop Influence Estimation"
 authors: 
-- Jianke Yu
+- Xulu Gong
 - admin
 - Xiaoyang Wang
 - Chen Chen
