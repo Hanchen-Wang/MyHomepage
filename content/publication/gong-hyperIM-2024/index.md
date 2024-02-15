@@ -52,7 +52,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: https://doi.org/10.1016/j.ipm.2024.103683
 url_code:
 url_dataset:
 url_poster:
@@ -60,7 +60,7 @@ url_project:
 url_slides: 
 url_source:
 url_video:
-doi:
+doi: https://doi.org/10.1016/j.ipm.2024.103683
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
