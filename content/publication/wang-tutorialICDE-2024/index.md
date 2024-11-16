@@ -51,7 +51,7 @@ url_code:
 url_dataset:
 url_poster:
 url_project:
-url_slides: "ICDE_2024_Tutorial_final.pdf"
+url_slides: 
 url_source:
 url_video:
 doi:
