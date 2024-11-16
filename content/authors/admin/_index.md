@@ -10,7 +10,8 @@ authors:
 superuser: true
 
 # Role/position
-role: ARC DECRA Fellow, Postdoctoral Research Fellow
+role: ARC DECRA Fellow
+Postdoctoral Research Fellow
 
 # Organizations/Affiliations
 organizations:
@@ -69,7 +70,7 @@ user_groups:
 - Visitors
 ---
 
-I am currently an ARC DECRA Fellow and postdoctoral research associate at at [Data and Knowledge Research Group](https://unswdb.github.io/) at [The University of New South Wales](https://unsw.edu.au/), supervised by Prof. [Wenjie Zhang](https://www.cse.unsw.edu.au/~zhangw/). Before joining UNSW, I was a postdoctoral research fellow at [Australian Artificial Intellegence Institution (AAII)](https://www.uts.edu.au/research/australian-artificial-intelligence-institute), [University of Technology Sydney](https://www.uts.edu.au/), supervised by A/Prof.[Lu Qin](https://www.uts.edu.au/staff/lu.qin). I obtained my Ph.D. degree in Computer Science from University of Technology Sydney in November 2021, advised by Prof.[Ying Zhang](http://www.cse.unsw.edu.au/~yingz/) and A/Prof.[Lu Qin](https://www.uts.edu.au/staff/lu.qin). I received my bachelor degree in Mathematics and Applied Mathematics from [Zhejiang University](https://www.zju.edu.cn/) in July 2016.
+I am currently an ARC DECRA Fellow and postdoctoral research fellow at at [Data and Knowledge Research Group](https://unswdb.github.io/) at [The University of New South Wales](https://unsw.edu.au/), supervised by Prof. [Wenjie Zhang](https://www.cse.unsw.edu.au/~zhangw/). Before joining UNSW, I was a postdoctoral research fellow at [Australian Artificial Intellegence Institution (AAII)](https://www.uts.edu.au/research/australian-artificial-intelligence-institute), [University of Technology Sydney](https://www.uts.edu.au/), supervised by A/Prof.[Lu Qin](https://www.uts.edu.au/staff/lu.qin). I obtained my Ph.D. degree in Computer Science from University of Technology Sydney in November 2021, advised by Prof.[Ying Zhang](http://www.cse.unsw.edu.au/~yingz/) and A/Prof.[Lu Qin](https://www.uts.edu.au/staff/lu.qin). I received my bachelor degree in Mathematics and Applied Mathematics from [Zhejiang University](https://www.zju.edu.cn/) in July 2016.
 
 My research focuses on developing machine learning algorithms for graph structured data and database systems, including developing graph neural network architectures and applying machine learning techniques to improve the algorithms in database domain.
 
