@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Deep Learning Approaches for Similarity Computation: A Survey"
+title: "AIGC for Graphs: Current Techniques and Future Trends"
 authors: 
 - admin
 - Dawei Cheng
