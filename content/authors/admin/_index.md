@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: ARC DECRA Fellow,     Postdoctoral Research Fellow
+role: Lecturer, ARC DECRA Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: University of New South Wales (UNSW)
-  url: "https://www.unsw.edu.au/"
+- name: University of Technology Sydney (UTS)
+  url: "https://www.uts.edu.au/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include developing machine learning algorithms for graph structured data and database systems.
@@ -24,6 +24,7 @@ interests:
 - Graph Neural Network
 - Graph Database
 - Artificial Intelligence for Database
+- Artificial Intelligence for Science
 
 education:
   courses:
@@ -41,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:hanchenw.au@gmail.com'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:hanchen.wang@uts.edu.au'  # For a direct email link, use "mailto:test@example.org".
 
 - icon: github
   icon_pack: fab
@@ -69,7 +70,7 @@ user_groups:
 - Visitors
 ---
 
-I am currently an ARC DECRA Fellow and postdoctoral research fellow at at [Data and Knowledge Research Group](https://unswdb.github.io/) at [The University of New South Wales](https://unsw.edu.au/), supervised by Prof. [Wenjie Zhang](https://www.cse.unsw.edu.au/~zhangw/). Before joining UNSW, I was a postdoctoral research fellow at [Australian Artificial Intellegence Institution (AAII)](https://www.uts.edu.au/research/australian-artificial-intelligence-institute), [University of Technology Sydney](https://www.uts.edu.au/), supervised by Prof.[Lu Qin](https://www.uts.edu.au/staff/lu.qin). I obtained my Ph.D. degree in Computer Science from University of Technology Sydney in November 2021, advised by Prof.[Ying Zhang](http://www.cse.unsw.edu.au/~yingz/) and Prof.[Lu Qin](https://www.uts.edu.au/staff/lu.qin). I received my bachelor degree in Mathematics and Applied Mathematics from [Zhejiang University](https://www.zju.edu.cn/) in July 2016.
+I am currently a Lecturer and ARC DECRA Fellow at [Australian Artificial Intelligence Institute (AAII)](https://www.uts.edu.au/research/australian-artificial-intelligence-institute), [University of Technology Sydney](https://www.uts.edu.au/). I am also an Adjunct Lecturer at [The University of New South Wales](https://unsw.edu.au/) and an Associate Investigator of [ARC Centre of Excellence for the Mathematical Analysis of Cellular Systems (MACSYS)](https://macsys.org/). Before joining UTS, I was a postdoctoral research fellow at [Data and Knowledge Research Group](https://unswdb.github.io/) at [The University of New South Wales](https://unsw.edu.au/), supervised by Prof. [Wenjie Zhang](https://www.cse.unsw.edu.au/~zhangw/) and a postdoctoral research fellow at Australian Artificial Intellegence Institution (AAII), University of Technology Sydney, supervised by Prof.[Lu Qin](https://www.uts.edu.au/staff/lu.qin). I obtained my Ph.D. degree in Computer Science from the University of Technology Sydney in November 2021, advised by Prof.[Ying Zhang](http://www.cse.unsw.edu.au/~yingz/) and Prof.[Lu Qin](https://www.uts.edu.au/staff/lu.qin). I received my bachelor's degree in Mathematics and Applied Mathematics from [Zhejiang University](https://www.zju.edu.cn/) in July 2016.
 
-My research focuses on developing machine learning algorithms for graph structured data and database systems, including developing graph neural network architectures and applying machine learning techniques to improve the algorithms in database domain.
+My research focuses on developing machine learning algorithms for graph structured data, database systems, and scientific discovery, including developing graph neural network architectures, applying machine learning techniques to improve the algorithms in the database domain, and AI for Science.
 
